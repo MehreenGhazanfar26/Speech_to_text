@@ -1,0 +1,10 @@
+streamlit
+vosk
+pydub
+ffmpeg-python
+numpy
+torch
+torchvision
+torchaudio
+librosa 
+transformers
